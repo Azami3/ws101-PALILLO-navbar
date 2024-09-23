@@ -1,0 +1,15 @@
+.home-bg {
+    background-color: #021526; 
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.home-bg h1 {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 200px;
+    color: white;
+}

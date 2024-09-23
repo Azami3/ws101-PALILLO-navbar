@@ -1,0 +1,15 @@
+.contact-bg {
+    background-color: #9013fe;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact-bg h1 {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 200px;
+    color: white;
+}
