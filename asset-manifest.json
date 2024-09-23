@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ws101-PALILLO-navbar/static/css/main.6e4a5701.css",
-    "main.js": "/ws101-PALILLO-navbar/static/js/main.063f3e23.js",
+    "main.css": "/ws101-PALILLO-navbar/static/css/main.2970cd89.css",
+    "main.js": "/ws101-PALILLO-navbar/static/js/main.a5b005c8.js",
     "index.html": "/ws101-PALILLO-navbar/index.html",
-    "main.6e4a5701.css.map": "/ws101-PALILLO-navbar/static/css/main.6e4a5701.css.map",
-    "main.063f3e23.js.map": "/ws101-PALILLO-navbar/static/js/main.063f3e23.js.map"
+    "main.2970cd89.css.map": "/ws101-PALILLO-navbar/static/css/main.2970cd89.css.map",
+    "main.a5b005c8.js.map": "/ws101-PALILLO-navbar/static/js/main.a5b005c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e4a5701.css",
-    "static/js/main.063f3e23.js"
+    "static/css/main.2970cd89.css",
+    "static/js/main.a5b005c8.js"
   ]
 }
